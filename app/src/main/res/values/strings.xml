@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Quick Quiz App</string>
+    <string name="welcome_messag">Welcome to the Android Quiz App!</string>
+    <string name="question_1">What is the tool used to create Android Apps?</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="java_netbeans">Java Netbeans</string>
+    <string name="what_is_4_4">What is 4*4?</string>
+    <string name="anime_question">Which anime is better Naruto or One Piece?</string>
+    <string name="naruto">Naruto</string>
+    <string name="one_piece">One Piece</string>
+    <string name="football_question">Which team is better Barcelona or Real Madrid?</string>
+    <string name="barca">Barcelona</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="device_question">Which device supports Android?</string>
+    <string name="apple">Apple</string>
+    <string name="samsung">Samsung</string>
+    <string name="name">Name</string>
+    <string name="submit_answer">Submit Answer</string>
+</resources>
